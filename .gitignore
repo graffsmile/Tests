@@ -1,0 +1,9 @@
+/test.py
+/tests/__init__.py
+/.venv/
+/tests/config.env
+/tests/test_Yandex.py
+/.idea/
+/__pycache__/
+/config.env
+/.pytest_cache/
